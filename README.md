@@ -1,5 +1,8 @@
 ## Hi there 👋, I am Lisa De Jongh
-**
+
+I'm a driven and enthusiastic young woman ready to dive into the exciting realm of software development. 
+I have a real passion for problem-solving, coding, and discovering new technologies. With a strong interest in cybersecurity and software engineering, I'm committed to learning, evolving, and creating innovative solutions.
+My aspirations include honing my technical skills, making meaningful contributions to projects, and carving out a successful career in the tech world.
 <!--
 **L1sa-LSD/L1sa-LSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

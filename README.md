@@ -17,13 +17,12 @@ I am focused on building my skills in software development and cybersecurity. I 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=L1sa-LSD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+Connect✨
+LinkedIn: Lisa De Jongh
 ---
 [![](https://visitcount.itsvg.in/api?id=L1sa-LSD&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-#Connect
-LinkedIn: Lisa De Jongh
-
 <!--
 **L1sa-LSD/L1sa-LSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
